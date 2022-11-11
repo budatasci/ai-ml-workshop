@@ -1,4 +1,3 @@
-
 # Breast Cancer Detection
 
 ## Introduction
