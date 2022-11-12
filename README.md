@@ -9,6 +9,7 @@ Machine learning is widely recognized as the methodology of choice in Breast Can
     ![](/img/fork-repo.png)
     
     
+<img width="569" alt="image" src="https://user-images.githubusercontent.com/73726129/201403307-27c2be81-062a-40a6-88ad-8ee176c954b3.png">
 
 2. Go to your fork of the reposiitory and copy the clone URL.
 
@@ -24,6 +25,8 @@ Machine learning is widely recognized as the methodology of choice in Breast Can
     ```
     cd ai-ml-workshop
     ```
+    <img width="569" alt="Screen Shot 2022-11-11 at 1 14 19 PM" src="https://user-images.githubusercontent.com/73726129/201403151-99d7f2bf-6be7-4c78-b9a2-9c7918b871bb.png">
+
 
 5. Once you are in this project's directory, open up your prefered Python IDE. Here are some examples for popular IDEs:
 
